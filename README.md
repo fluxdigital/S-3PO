@@ -20,7 +20,7 @@ You must have Sitecore Powershell Extensions installed. This release has been te
 <br clear="both"/>
 
 
-4. Open the web.config and update the ```<Content-Security-Policy>``` under the ```<customHeaders>``` (this will re-start your CM so be aware of this):
+4. Open the web.config and update the ```<Content-Security-Policy>``` under the ```<customHeaders>``` to add in ```https://oaidalleapiprodscus.blob.core.windows.net``` (this will re-start your CM so be aware of this):
 
 <img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/add-Content-Security-Policy.png" width="600" align="left">
 <br clear="both"/>
@@ -36,7 +36,30 @@ You must have Sitecore Powershell Extensions installed. This release has been te
   
 ## Usage
 
-- 
+- Once you've updated the settings to add your API Key and so forth you can go to a page in Content editor and use one of the two options:
+<img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/s3po-buttons.png" width="300" align="left">
+<br clear="both"/>
+
+### Re-write with AI
+Choose this option to Re-write Text using AI. Select a Text Field (Singleline Text, Multline Text or Rich Text) and the options you want to use and click continue:
+<br clear="both"/>
+<img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/s3po-re-write.png" width="300" align="left">
+<br clear="both"/>
+
+Choose one of the results returned and click continue to update your field with the re-written text:
+<br clear="both"/>
+<img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/s3po-re-write-2.png" width="300" align="left">
+<br clear="both"/>
+
+### Generate Image with AI
+Choose this option to Generate Images using AI. Select an Image field and the options you want to use and click continue:
+<img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/s3po-gen-image.png" width="300" align="left">
+<br clear="both"/>
+
+Choose one of the Images returned and click continue to update your field with the Generated Image:
+<img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/s3po-gen-image-2.png" width="300" align="left">
+<br clear="both"/>
+
 ## Releases
 [Download Release v1](https://github.com/fluxdigital/S-3PO/releases/tag/1.0.0)
 
