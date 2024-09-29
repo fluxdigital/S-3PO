@@ -1,15 +1,22 @@
 # S-3PO
 
-<img src="https://github.com/fluxdigital/S-3PO/blob/main/s3po-logo.png" width="200" align="left">
+<img src="https://github.com/fluxdigital/S-3PO/blob/main/s3po-logo.png" width="200" align="left">&nbsp;
 
 An Generative AI Module for Sitecore XP built with SPE and using various models from ChatGPT/OpenAI.
 
-Current features are Rewriting Text and Generating Images in Content Editor with AI
+Current features in Content Editor are:
+
+- Rewriting Text with AI (using GPT-35 Turbo, GPT-4o mini, GPT-4o Turbo or GPT-4o)
+- Generating Images with AI (using Dall-e-2 or Dall-e-3)
 
 <br clear="both"/>
 
 ## Pre-requisites
-You must have Sitecore Powershell Extensions installed. This release has been tested with Sitecore 10.3 and 10.4 and SPE 6.4 but should work with older versions also.
+- You must have Sitecore Powershell Extensions installed. This release has been tested with Sitecore 10.3 and 10.4 and SPE 6.4 but should work with older versions also.
+- You must have an API Key for ChatGPT/Open AI: https://platform.openai.com/. 
+*Note:* in my testing this was not expensive, especially if you select the cheaper Open AI Models.
+<img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/open-api-key.png" width="400" align="left">
+<br clear="both"/>
 
 ## Install Notes
 1. Download the package from the release link below
