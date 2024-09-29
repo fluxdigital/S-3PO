@@ -32,8 +32,10 @@ An Generative AI Module for Sitecore XP built with SPE and using various models 
 <img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/add-Content-Security-Policy.png" width="600" align="left">
 <br clear="both"/>
 
+**Note:** this is required for images to display when Generating them with AI - otherwise you will see no images returned and Content-Security-Policy errors in your browser console.
+
 ## Settings
-- Add your API Key from OpenAI in the settings here: /sitecore/system/Modules/PowerShell/Script Library/S-3PO/S-3PO Settings
+- Add your API Key from OpenAI in the settings here: ```/sitecore/system/Modules/PowerShell/Script Library/S-3PO/S-3PO Settings```
 <img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/s3po-settings.png" width="600" align="left">
 <br clear="both"/>
 
@@ -47,23 +49,27 @@ An Generative AI Module for Sitecore XP built with SPE and using various models 
 <img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/s3po-buttons.png" width="300" align="left">
 <br clear="both"/>
 
+
 ### Re-write with AI
+
 Choose this option to Re-write Text using AI. Select a Text Field (Singleline Text, Multline Text or Rich Text) and the options you want to use and click continue:
 <br clear="both"/>
 <img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/s3po-re-write.png" width="300" align="left">
 <br clear="both"/>
 
-Choose one of the results returned and click continue to update your field with the re-written text:
+Choose one of the results returned and click continue to update your Text field with the re-written text:
 <br clear="both"/>
 <img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/s3po-re-write-2.png" width="300" align="left">
 <br clear="both"/>
 
+
 ### Generate Image with AI
+
 Choose this option to Generate Images using AI. Select an Image field and the options you want to use and click continue:
 <img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/s3po-gen-image.png" width="300" align="left">
 <br clear="both"/>
 
-Choose one of the Images returned and click continue to update your field with the Generated Image:
+Choose one of the Images returned and click continue to update your Image field with the Generated Image:
 <img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/s3po-gen-image-2.png" width="300" align="left">
 <br clear="both"/>
 
