@@ -4,12 +4,20 @@
 
 An Generative AI Module for Sitecore XP built with SPE and using various models from ChatGPT/OpenAI.
 
+<div>
+    <a href="https://www.loom.com/share/a5b36d22afef4cf6acaae860a16d0d81">
+      <p>Demo of S-3PO v1 - Image Generation with AI - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a5b36d22afef4cf6acaae860a16d0d81">
+      <img style="max-width:200px;" src="https://cdn.loom.com/sessions/thumbnails/a5b36d22afef4cf6acaae860a16d0d81-933ea45f242d475a-full-play.gif">
+    </a>
+  </div>
+<br clear="both"/>
+
 **Current features in Content Editor are:**
 
 - Rewriting Text with AI (using GPT-35 Turbo, GPT-4o mini, GPT-4o Turbo or GPT-4o)
 - Generating Images with AI (using Dall-e-2 or Dall-e-3)
-
-<br clear="both"/>
 
 ## Pre-requisites
 - You must have Sitecore Powershell Extensions installed. This release has been tested with Sitecore 10.3 and 10.4 and SPE 6.4 but should work with older versions also.
