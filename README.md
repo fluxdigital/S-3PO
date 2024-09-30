@@ -19,6 +19,8 @@ An Generative AI Module for Sitecore XP built with SPE and using various models 
 - Rewriting Text with AI (using GPT-35 Turbo, GPT-4o mini, GPT-4o Turbo or GPT-4o)
 - Generating Images with AI (using Dall-e-2 or Dall-e-3)
 
+**Note:** This module sends prompts to ChatGPT in order to function - Flux Digital Ltd, Adam Seabridge and any of the developers of this Module accept no responsibility for any loss or damage caused by using this module. 
+
 ## Pre-requisites
 - You must have Sitecore Powershell Extensions installed. This release has been tested with Sitecore 10.3 and 10.4 and SPE 6.4 but should work with older versions also.
 - You must have an API Key for ChatGPT/Open AI: https://platform.openai.com/. 
