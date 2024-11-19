@@ -31,13 +31,14 @@ An Generative AI Module for Sitecore XP built with SPE and using various models 
 ## Install Notes
 1. Download the package from the release link below
 2. Install the package using the Sitecore package install option in the Sitecore Desktop
-3. You should now have S-3PO installed under the SPE modules item:
+3. Re-build the SPE integration Points from the SPE Menu
+4. You should now have S-3PO installed under the SPE modules item:
 
 <img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/s3po-module.png" width="200" align="left">
 <br clear="both"/>
 
 
-4. Open the web.config and update the ```<Content-Security-Policy>``` under the ```<customHeaders>``` to add in ```https://oaidalleapiprodscus.blob.core.windows.net``` (this will re-start your CM so be aware of this):
+5. Open the web.config and update the ```<Content-Security-Policy>``` under the ```<customHeaders>``` to add in ```https://oaidalleapiprodscus.blob.core.windows.net``` (this will re-start your CM so be aware of this):
 
 <img src="https://github.com/fluxdigital/S-3PO/blob/main//s3po-images/add-Content-Security-Policy.png" width="600" align="left">
 <br clear="both"/>
