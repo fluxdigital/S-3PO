@@ -4,6 +4,8 @@
 
 An Generative AI Module for Sitecore XP built with SPE and using various models from ChatGPT/OpenAI.
 
+[Release v2 OUT NOW!](https://github.com/fluxdigital/S-3PO/releases/tag/2.0.0)
+
 <div>
     <a href="https://www.loom.com/share/a5b36d22afef4cf6acaae860a16d0d81">
       <p>Demo of S-3PO v1 - Image Generation with AI - Watch Video</p>
@@ -85,5 +87,5 @@ Choose one of the Images returned and click continue to update your Image field 
 <br clear="both"/>
 
 ## Releases
-[Download Release v1](https://github.com/fluxdigital/S-3PO/releases/tag/1.0.0)
+[Download Release v2](https://github.com/fluxdigital/S-3PO/releases/tag/2.0.0)
 
