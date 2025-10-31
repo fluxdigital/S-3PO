@@ -6,8 +6,9 @@ An Generative AI Module for Sitecore XP built with SPE and using various models 
 
 [Release v2 - OUT NOW!](https://github.com/fluxdigital/S-3PO/releases/tag/2.0.0)
 
-<b>For now the install instructions can be found here: <a href="https://www.flux-digital.com/blog/s-3po-v2-0-released-generative-ai-module-for-sitecore/#install">https://www.flux-digital.com/blog/s-3po-v2-0-released-generative-ai-module-for-sitecore/#install</a></b>
-
+<b>For now v2 install instructions can be found here: 
+<a href="https://www.flux-digital.com/blog/s-3po-v2-0-released-generative-ai-module-for-sitecore/#install">https://www.flux-digital.com/blog/s-3po-v2-0-released-generative-ai-module-for-sitecore/#install</a></b>
+<br/>
 <div>
     <a href="https://www.loom.com/share/a5b36d22afef4cf6acaae860a16d0d81">
       <p>Demo of S-3PO v1 - Image Generation with AI - Watch Video</p>
